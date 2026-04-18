@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Mi Extension Personal",
+    "pkg": "eu.kanade.tachiyomi.animeextension.es.miextension",
+    "apk": "miextension.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.0.0",
+    "nsfw": 0
+  }
+]
